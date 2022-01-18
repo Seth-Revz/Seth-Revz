@@ -1,7 +1,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=seth-revz&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD140B)">
 
 ## Hi there!
-#### I’m currently working on Pokévents, a Verified Discord bot for the PokeMMO community! Written in Python  
+#### I’m currently working on Pokévents, a verified Discord bot for the <a href=https://forums.pokemmo.eu/>PokeMMO</a> community! Written in Python.  
   - Official Event Reminders
   - PokePaste Image Tool
   - Cycle Tool
