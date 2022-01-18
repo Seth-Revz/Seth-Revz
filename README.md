@@ -4,7 +4,7 @@
 #### I’m currently working on Pokévents, a verified Discord bot for the <a href=https://forums.pokemmo.eu/>PokeMMO</a> community! Written in Python.  
   - Official Event Reminders
   - PokePaste Image Tool
-  - Cycle Tool
+  - Altering Cave Cycle Tool
   - Pokedex Tool
   - Twitch Live Notifications  
 
