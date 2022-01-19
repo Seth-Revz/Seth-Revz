@@ -1,9 +1,7 @@
-<p>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Welcome to my profile!
-</p>
-
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&height=18&size=22&color=5865F2&lines=Hi!+I'm+Seth;Pythonista+%7C+Bot+Developer;5%2B+years+coding+experience;BS+in+Computer+Science"></a>
+<h3 align="center">
+  Welcome to my profile!!
+  <br><br><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&height=22&size=22&color=5865F2&lines=Hi!+I'm+Seth;Pythonista+%7C+Bot+Developer;5%2B+years+coding+experience;BS+in+Computer+Science;Always+Learning"></a>
+</h3>
 
 #### I’m currently working on Pokévents, a verified Discord bot for the <a href=https://forums.pokemmo.eu/>PokeMMO</a> community! Written in Python.  
   - Official Event Reminders
@@ -21,7 +19,7 @@
   <img alt="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=seth-revz&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD140B)">  
   <br><br>
   <img alt="activity" src="https://activity-graph.herokuapp.com/graph?username=Seth-Revz&theme=github">  
-</div><br><br>
+</div><br>
 
 ## 💬 Favorite Quote
 <p>"Why spend 5 minutes on something when you can waste 5 hours failing to automate it."</p>
