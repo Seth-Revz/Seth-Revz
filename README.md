@@ -19,9 +19,10 @@
 ## 🔥 Streak stats
 <div align="center">
   <img alt="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=seth-revz&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD140B)">  
-  <br><br>
+  <br>
+  <br>
   <img alt="activity" src="https://activity-graph.herokuapp.com/graph?username=Seth-Revz&theme=github">  
 </div><br>
 
-## 💬 Favorite Quote
-<p>"Why spend 5 minutes on something when you can waste 5 hours failing to automate it."</p>
+<br>
+<p align="center"><sub><sup>"Why spend 5 minutes on something when you can waste 5 hours failing to automate it."</sup></sub></p>
