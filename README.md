@@ -11,6 +11,7 @@ In 450+ Servers!
   - Location Encounters Tool
   - Pokedex Tool
   - Egg Move Tool
+  - Egg Link Tool
   - Twitch Live Notifications  
 
 [<img alt="Pokevents" width=250 src="https://img.shields.io/badge/-Invite%20Pokevents%20to%20your%20Server-5865F2" />](https://discord.com/api/oauth2/authorize?client_id=731734090365141062&permissions=2147871808&redirect_uri=https%3A%2F%2Fdiscord.com%2Fapi%2Foauth2%2Fauthorize%3Fclient_id%3D731734090365141062%26permissions%3D2147871808%26redirect_uri%3Dhttps%253A%252F%252Flocalhost%253A3000%252Fauth%252Fredirect%26scope%3Dbot%2520app&scope=bot%20applications.commands)
