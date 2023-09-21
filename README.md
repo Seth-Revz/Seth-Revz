@@ -4,7 +4,7 @@
 </h3>
 
 #### I’m currently working on Pokevents, a verified Discord bot for the <a href=https://forums.pokemmo.eu/>PokeMMO</a> community! Written in Python.  
-In 600+ Servers!
+In 800+ Servers!
   - Official Event Reminders
   - PokePaste Image Tool
   - Altering Cave Cycle Tool
