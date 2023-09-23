@@ -3,8 +3,9 @@
   <br><br><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&height=22&size=22&color=5865F2&lines=Hi!+I'm+Seth;Pythonista+%7C+Bot+Developer;5%2B+years+coding+experience;BS+in+Computer+Science;Always+Learning"></a>
 </h3>
 
-#### I’m currently working on Pokevents, a verified Discord bot for the <a href=https://forums.pokemmo.eu/>PokeMMO</a> community! Written in Python.  
-In 800+ Servers!
+Currently working on Pokevents, a verified Discord bot for the [PokeMMO](https://forums.pokemmo.com) community!  
+  
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.bots.gg%2Fapi%2Fv1%2Fbots%2F731734090365141062&query=%24.status&style=for-the-badge&logo=discord&logoColor=7289da&label=Pok%C3%A9vents%237341&labelColor=2c2f33&color=7289da&link=https%3A%2F%2Fdiscord.com%2Fapi%2Foauth2%2Fauthorize%3Fclient_id%3D731734090365141062%26permissions%3D2147871808%26redirect_uri%3Dhttps%253A%252F%252Fdiscord.com%252Fapi%252Foauth2%252Fauthorize%253Fclient_id%253D731734090365141062%2526permissions%253D2147871808%2526redirect_uri%253Dhttps%25253A%25252F%25252Flocalhost%25253A3000%25252Fauth%25252Fredirect%2526scope%253Dbot%252520app%26scope%3Dbot%2520applications.commands) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.bots.gg%2Fapi%2Fv1%2Fbots%2F731734090365141062&query=%24.guildCount&style=for-the-badge&label=Servers&labelColor=2c2f33&color=7289da&link=https%3A%2F%2Fdiscord.com%2Fapi%2Foauth2%2Fauthorize%3Fclient_id%3D731734090365141062%26permissions%3D2147871808%26redirect_uri%3Dhttps%253A%252F%252Fdiscord.com%252Fapi%252Foauth2%252Fauthorize%253Fclient_id%253D731734090365141062%2526permissions%253D2147871808%2526redirect_uri%253Dhttps%25253A%25252F%25252Flocalhost%25253A3000%25252Fauth%25252Fredirect%2526scope%253Dbot%252520app%26scope%3Dbot%2520applications.commands)
   - Official Event Reminders
   - PokePaste Image Tool
   - Altering Cave Cycle Tool
@@ -14,9 +15,7 @@ In 800+ Servers!
   - Egg Link Tool
   - Twitch Live Notifications  
 
-[<img alt="Pokevents" width=250 src="https://img.shields.io/badge/-Invite%20Pokevents%20to%20your%20Server-5865F2" />](https://discord.com/api/oauth2/authorize?client_id=731734090365141062&permissions=2147871808&redirect_uri=https%3A%2F%2Fdiscord.com%2Fapi%2Foauth2%2Fauthorize%3Fclient_id%3D731734090365141062%26permissions%3D2147871808%26redirect_uri%3Dhttps%253A%252F%252Flocalhost%253A3000%252Fauth%252Fredirect%26scope%3Dbot%2520app&scope=bot%20applications.commands)
-
-#### <a href="https://github.com/Seth-Revz/PokeMMO-Launcher">PokeMMO Launcher</a> is now available!
+### <a href="https://github.com/Seth-Revz/PokeMMO-Launcher">PokeMMO Launcher</a> is now available!
 
 ## 🔥 Streak stats
 <div align="center">
