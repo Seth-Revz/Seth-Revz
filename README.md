@@ -16,8 +16,6 @@ Currently working on Pokevents, a verified Discord bot for the [PokeMMO](https:/
   - Egg Link Tool
   - Twitch Live Notifications  
 
-### <a href="https://github.com/Seth-Revz/PokeMMO-Launcher">PokeMMO Launcher</a> is now available!
-
 ## 🔥 Streak stats
 <div align="center">
   <img alt="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=seth-revz&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD140B)">  
