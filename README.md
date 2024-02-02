@@ -1,7 +1,3 @@
-<h3 align="center">
-  Welcome to my profile!!
-  <br><br><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&height=22&size=22&color=5865F2&lines=Hi!+I'm+Seth;Pythonista+%7C+Bot+Developer;5%2B+years+coding+experience;BS+in+Computer+Science;Always+Learning"></a>
-</h3>
 
 Currently working on Pokevents, a verified Discord bot for the [PokeMMO](https://forums.pokemmo.com) community!  
 
