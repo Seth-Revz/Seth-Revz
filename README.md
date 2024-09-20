@@ -5,6 +5,7 @@ Currently working on Pokevents, a verified Discord bot for the [PokeMMO](https:/
   
   - Official Event Reminders
   - Unofficial LC Event Reminders
+  - Role Reactions for Event Reminders
   - PokePaste Image Tool
   - Altering Cave Cycle Tool
   - Location Encounters Tool
