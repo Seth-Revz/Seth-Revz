@@ -1,6 +1,6 @@
 
-Currently working on many projects, with Pokevents being the main priority.  
-Pokevents is a verified Discord bot for the [PokeMMO](https://forums.pokemmo.com) community!  
+Currently working on many projects, with Pokévents being a big one.  
+Pokévents is a verified Discord bot for the [PokeMMO](https://forums.pokemmo.com) community!  
   
 </br>
 
