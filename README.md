@@ -22,6 +22,3 @@ Pokévents is a verified Discord bot for the [PokeMMO](https://forums.pokemmo.co
 <div align="center">
   <img alt="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=seth-revz&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD140B)">  
 </div><br>
-
-<br>
-<p align="center"><sub><sup>"Why spend 5 minutes on something when you can spend 5 hours to automate it."</sup></sub></p>
