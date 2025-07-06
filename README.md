@@ -1,5 +1,5 @@
 
-Currently working on many projects, with Pokévents being a big one.  
+Currently mainly working on Pokévents.  
 Pokévents is a verified Discord bot for the [PokeMMO](https://forums.pokemmo.com) community!  
   
 </br>
